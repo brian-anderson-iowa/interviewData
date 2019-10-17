@@ -19,7 +19,7 @@
       "vehicleTypeId": 1,
       "model": "Toyota",
       "make": "Supra",
-      "color": "Red,
+      "color": "Red",
       "year": 2005
     },
     {
@@ -27,7 +27,7 @@
       "vehicleTypeId": 1,
       "model": "Honda",
       "make": "Civic",
-      "color": "Blue,
+      "color": "Blue",
       "year": 2008
     },
     {
