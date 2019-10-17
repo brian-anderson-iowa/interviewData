@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "vehicleTypes": [
     {
       "id": 1,
       "title": "Post 1"
@@ -17,12 +17,12 @@
     {
       "id": 1,
       "body": "some comment",
-      "postId": 1
+      "vehicleTypeId": 1
     },
     {
       "id": 2,
       "body": "some comment",
-      "postId": 1
+      "vehicleTypeId": 1
     }
   ],
   "profile": {
