@@ -16,13 +16,51 @@
   "vehicles": [
     {
       "id": 1,
-      "body": "some comment",
-      "vehicleTypeId": 1
+      "vehicleTypeId": 1,
+      "model": "Toyota",
+      "make": "Supra",
+      "color": "Red",
+      "year": 2005
     },
     {
       "id": 2,
-      "body": "some comment",
-      "vehicleTypeId": 1
+      "vehicleTypeId": 1,
+      "model": "Honda",
+      "make": "Civic",
+      "color": "Blue",
+      "year": 2008
+    },
+    {
+      "id": 3,
+      "vehicleTypeId": 2,
+      "model": "Ford",
+      "make": "Explorer",
+      "color": "Green",
+      "year": 2010
+    },
+    {
+      "id": 4,
+      "vehicleTypeId": 2,
+      "model": "Chevy",
+      "make": "Blazer",
+      "color": "Black",
+      "year": 2011
+    },
+    {
+      "id": 5,
+      "vehicleTypeId": 3,
+      "model": "Chevy",
+      "make": "Silverado",
+      "color": "Red",
+      "year": 2015
+    },
+    {
+      "id": 6,
+      "vehicleTypeId": 3,
+      "model": "Ford",
+      "make": "F-150",
+      "color": "Blue",
+      "year": 2019
     }
   ]
 }
