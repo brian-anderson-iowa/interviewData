@@ -24,8 +24,5 @@
       "body": "some comment",
       "vehicleTypeId": 1
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
