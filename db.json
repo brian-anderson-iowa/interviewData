@@ -17,16 +17,16 @@
     {
       "id": 1,
       "vehicleTypeId": 1,
-      "model": "Toyota",
-      "make": "Supra",
+      "make": "Toyota",
+      "model": "Supra",
       "color": "Red",
       "year": 2005
     },
     {
       "id": 2,
       "vehicleTypeId": 1,
-      "model": "Honda",
-      "make": "Civic",
+      "make": "Honda",
+      "model": "Civic",
       "color": "Blue",
       "year": 2008
     },
@@ -41,24 +41,24 @@
     {
       "id": 4,
       "vehicleTypeId": 2,
-      "model": "Chevy",
-      "make": "Blazer",
+      "make": "Chevy",
+      "model": "Blazer",
       "color": "Black",
       "year": 2011
     },
     {
       "id": 5,
       "vehicleTypeId": 3,
-      "model": "Chevy",
-      "make": "Silverado",
+      "make": "Chevy",
+      "model": "Silverado",
       "color": "Red",
       "year": 2015
     },
     {
       "id": 6,
       "vehicleTypeId": 3,
-      "model": "Ford",
-      "make": "F-150",
+      "make": "Ford",
+      "model": "F-150",
       "color": "Blue",
       "year": 2019
     }
